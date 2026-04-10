@@ -1,0 +1,25 @@
+# Entorno virtual
+.venv/
+
+# Variables sensibles
+.env
+
+# Archivos temporales Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs del pipeline
+out/
+
+# Archivos grandes o datos
+data/raw/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
